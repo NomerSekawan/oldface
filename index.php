@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Home - OldFace</title>
+  <title>OldFace</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -27,29 +27,25 @@
                   </button>
                 <a class="navbar-brand page-scroll sticky-logo" href="index.php">
                   <h1><span>Old</span>Face</h1>
-                  <!-- Uncomment below if you prefer to use an image logo -->
                   <!-- <img src="img/logo.png" alt="" title=""> -->
                 </a>
               </div>
               <div class="collapse navbar-collapse main-menu bs-example-navbar-collapse-1" id="navbar-example">
                 <ul class="nav navbar-nav navbar-right">
-                  <li class="active">
-                    <a class="page-scroll" href="index.php">Home</a>
+                  <li>
+                    <a class="page-scroll" href="oldface.php">OldFace</a>
                   </li>
                   <li>
-                    <a class="page-scroll" href="#" href="#about">OldFace</a>
+                    <a class="page-scroll" href="kaos.php">Kaos OldFace</a>
                   </li>
                   <li>
-                    <a class="page-scroll" href="#">Kaos OldFace</a>
+                    <a class="page-scroll" href="bahan.php">Bahan Kaos</a>
                   </li>
                   <li>
-                    <a class="page-scroll" href="#">Bahan Kaos</a>
+                    <a class="page-scroll" href="pesan.php">Pesan Kaos</a>
                   </li>
                   <li>
-                    <a class="page-scroll" href="#">Pesan Kaos</a>
-                  </li>
-                  <li>
-                    <a class="page-scroll" href="#">Contact</a>
+                    <a class="page-scroll" href="contact.php">Contact</a>
                   </li>
                 </ul>
               </div>
@@ -134,6 +130,82 @@
               </div>
             </div>
           </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="kaos-oldface" class="our-team-area area-padding">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 col-sm-12 col-xs-12">
+          <div class="section-headline text-center">
+            <h2>Terbaru di OldFace</h2>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="team-top">
+          <div class="col-md-3 col-sm-3 col-xs-12">
+            <div class="single-team-member">
+              <div class="team-img">
+                <a href="#">
+                    <img src="img/kaos-oldface/kaos-001.jpg" alt="">
+                  </a>
+              </div>
+              <div class="team-content text-center">
+                <h4>Kaos 001</h4>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-3 col-xs-12">
+            <div class="single-team-member">
+              <div class="team-img">
+                <a href="#">
+                    <img src="img/kaos-oldface/kaos-002.jpg" alt="">
+                  </a>
+                
+              </div>
+              <div class="team-content text-center">
+                <h4>Kaos 002</h4>
+              </div>
+            </div>
+          </div>
+          
+          <div class="col-md-3 col-sm-3 col-xs-12">
+            <div class="single-team-member">
+              <div class="team-img">
+                <a href="#">
+                    <img src="img/kaos-oldface/kaos-003.jpg" alt="">
+                  </a>
+                
+              </div>
+              <div class="team-content text-center">
+                <h4>Kaos 003</h4>
+              </div>
+            </div>
+          </div>
+          
+          <div class="col-md-3 col-sm-3 col-xs-12">
+            <div class="single-team-member">
+              <div class="team-img">
+                <a href="#">
+                    <img src="img/kaos-oldface/kaos-004.jpg" alt="">
+                  </a>
+              </div>
+              <div class="team-content text-center">
+                <h4>Kaos 004</h4>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12 col-sm-12 col-xs-12">
+            <div class="text-center">
+              <button type="button" class="ready-btn" onclick="window.location='kaos.php';">Lihat Lainnya</button>
+            </div>
         </div>
       </div>
     </div>
